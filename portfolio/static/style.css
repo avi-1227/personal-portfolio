@@ -27,17 +27,15 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-@media all and (max-width:1024px) and (min-width:768px) {
-  .bg {
-    background: url('./images/bg.jpg');
-    background: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 1024px;
-  }
+/* @media all and (max-width:1024px) and (min-width:768px) {
+  
+} */
+
+.bg {
+  background: url('./images/bg.jpg');
+  background: cover;
+  
 }
-
-
 
 p {
 
