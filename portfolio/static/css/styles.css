@@ -13737,6 +13737,10 @@ html {
 #navbar {
   background: url('../images/bg.jpg');
   /* Add other styles as needed */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 /* Style for the navbar when scrolled */
