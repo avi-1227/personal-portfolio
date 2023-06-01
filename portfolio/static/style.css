@@ -30,6 +30,7 @@
 .bg {
   background: url('./images/bg.jpg');
   background: cover;
+  width: 100%;
 }
 
 p {
